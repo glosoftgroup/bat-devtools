@@ -1,4 +1,4 @@
-## Check NodeJS Version
+## Check Node and Yarn Availability
 #### Setup
  1. Download yarn msi to local repository i.e yarn-1.12.3 or yours and rename in the yarn_setup.bat
  2. Setting up node and yarn
